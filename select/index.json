@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "キミシダイ列車",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-03T08:40:17.174479Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キミシダイ列車",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/01_キミシダイ列車_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ONE OK ROCK - キミシダイ列車",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/02_ONE_OK_ROCK_-_キミシダイ列車_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "キミシダイ列車 - Kimishidai Ressha",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/03_キミシダイ列車_-_Kimishidai_Ressha_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "キミシダイ列車",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/04_キミシダイ列車_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "117.キミシダイ列車",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/05_117.キミシダイ列車_Various.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キミシダイ列車",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_キミシダイ列車_ONE_OK_ROCK.txt"
+    }
+  ]
+}
