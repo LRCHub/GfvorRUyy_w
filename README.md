@@ -1,0 +1,60 @@
+# ONE OK ROCK – キミシダイ列車
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:34.89] Can't take a time What are you waiting for?
+[00:37.56] 大事なコト忘れてないかい?
+[00:40.53] 何かのせいにして逃げてはいないかい?
+[00:45.82] 僕らがそう感じれる
+[00:48.82] 喜びや悲しみは日々生きるためのスパイス
+[00:58.32] 
+[00:57.70] Yes, Try to try, Keep moving on
+[00:59.87] そうでもしなきゃ Can't see the light
+[01:02.56] 元も子もなくなって本当にただ痛い目見るだけ
+[01:13.06] 
+[01:09.05] Just hold on tight, It can be all right
+[01:11.71] We take it back 取り戻すのさ
+[01:14.46] 過去の自分が今僕の土台となる Wow...
+[01:20.00] So 現実逃避を繰り返す
+[01:23.09] It's a wasting time for your blaming yourself
+[01:25.77] Are you ready now?
+[01:27.38] We are ready now for tonight
+[01:41.38] 
+[01:43.24] Can't give it up You're the only one
+[01:46.18] 君が唯一信じれる事!
+[01:48.82] 何かの犠牲をも惜しまずにできること!
+[01:57.82] 
+[01:54.45] Yes, try to try, Keep moving on
+[01:56.97] そうでもしなきゃ Can't see the light
+[01:59.52] 元も子もなくなって本当にただ痛い目見るだけ
+[02:10.02] 
+[02:05.96] Just hold on tight, It can be all right
+[02:08.95] We take it back 取り戻すのさ
+[02:11.64] 過去の自分が今僕の土台となる Wow...
+[02:17.29] So 現実逃避を繰り返す
+[02:20.24] It's a wasting time for your blaming yourself
+[02:22.99] Are you ready now? We are ready now for tonight
+[02:46.49] 
+[02:26.42] Don't you take your times to blame yourself?
+[02:28.64] Times you're taking back are times I'm taking back
+[02:31.59] I can do anything 24 hours a day
+[02:33.96] Are you ready now?
+[02:35.33] We've got nothing to be taken!
+[02:50.33] 
+[02:48.44] こんりんざい僕は言わせぬから
+[02:51.19] 「過去がこうだ! だから未来もこうさ!」
+[02:54.15] もうくだらん これだから嫌になる
+[02:59.75] 「もういいや このまま死んだって」
+[03:02.47] ...って思うほどバカに生きてるから
+[03:05.02] ホラ気付けば また今日も歌ってる!
+[03:13.52] 
+[03:11.01] Just hold on tight, It can be all right
+[03:13.62] We take it back 取り戻すのさ
+[03:16.64] 過去の自分が今僕の土台となる Wow...
+[03:22.27] So 現実逃避を繰り返す
+[03:25.02] It's a wasting time for your blaming yourself
+[03:28.02] Are you ready now? We are ready now for tonight
+[03:33.63] Are you ready now? We are ready now for tonight
+[03:38.92] Are you ready now? We are ready now for tonight
+```
